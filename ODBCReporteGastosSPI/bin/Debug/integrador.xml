@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parametros>
+<host>172.23.20.93</host>
+<database>dusa_evaluacion</database>
+<user>client</user>
+<password>123</password>
+</parametros>
